@@ -1,0 +1,35 @@
+[
+  {
+    "model": "home.testimonial",
+    "pk": 1,
+    "fields": {
+      "quote": "The mural is absolutely stunning! Carmel was a true professional and perfectly captured the vision we had for our space.",
+      "author_name": "Jane Doe",
+      "company_or_title": "Homeowner, Galway",
+      "is_approved": true,
+      "submitted_at": "2025-10-14T19:15:00Z"
+    }
+  },
+  {
+    "model": "home.testimonial",
+    "pk": 2,
+    "fields": {
+      "quote": "Our hand-painted sign is a work of art. The craftsmanship and attention to detail are second to none.",
+      "author_name": "John Smith",
+      "company_or_title": "Owner, The Corner Cafe",
+      "is_approved": true,
+      "submitted_at": "2025-10-14T19:16:00Z"
+    }
+  },
+  {
+    "model": "home.testimonial",
+    "pk": 3,
+    "fields": {
+      "quote": "We had the best time in our pottery class! Carmel is a wonderful teacher, making the session so fun and easy to follow.",
+      "author_name": "Emily White",
+      "company_or_title": "Workshop Attendee",
+      "is_approved": true,
+      "submitted_at": "2025-10-14T19:17:00Z"
+    }
+  }
+]
