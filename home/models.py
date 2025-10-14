@@ -20,3 +20,12 @@ class Testimonial(models.Model):
 
     def __str__(self):
         return f'"{self.quote[:30]}..." by {self.author_name}'
+
+
+class NewsletterSubscriber(models.Model):
+    """Stores email addresses for the newsletter."""
+    email = models.EmailField(unique=True)
+    subscribed_at = models.DateTimeField(auto_now_add=True)
+
+    def __str__(self):
+        return self.email
