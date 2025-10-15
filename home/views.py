@@ -11,13 +11,7 @@ class TestimonialList(generics.ListAPIView):
     serializer_class = TestimonialSerializer
     
     def get_queryset(self):
-        # This is the key part: only return testimonials where is_approved is True
         return Testimonial.objects.filter(is_approved=True)
-
-
-class TestimonialList(generics.ListAPIView):
-    # ... your existing TestimonialList view ...
-    pass
 
 # --- Add this new view ---
 class NewsletterSubscribe(generics.CreateAPIView):
