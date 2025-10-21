@@ -5,7 +5,7 @@
     "fields": {
       "title": "Coastal View with Lilies",
       "description": "A vibrant canvas piece depicting a tranquil coastal scene viewed through an arched window. The foreground flowers were added to the canvas, while the rest of the scene was painted freehand.",
-      "image": "gallery_images/coastal-view.jpg",
+      "image": "gallery_images/coastal-view.png",
       "category": "MURAL",
       "created_at": "2025-10-15T10:00:00Z"
     }
@@ -16,7 +16,7 @@
     "fields": {
       "title": "Cocktail Bar Scene",
       "description": "A stylish mural capturing the atmosphere of a cocktail bar, inspired by artists like Rihanna and Daft Punk. Perfect for adding a modern, musical vibe to any space.",
-      "image": "gallery_images/cocktail-bar.jpg",
+      "image": "gallery_images/cocktail-bar.png",
       "category": "MURAL",
       "created_at": "2025-10-14T11:00:00Z"
     }
@@ -27,7 +27,7 @@
     "fields": {
       "title": "Guardian Angel Mural",
       "description": "A powerful mural of a guardian angel, painted on an exterior wall for a private residence. The piece is designed to be a striking and protective presence.",
-      "image": "gallery_images/guardian-angel.jpg",
+      "image": "gallery_images/guardian-angel.png",
       "category": "MURAL",
       "created_at": "2025-10-13T12:00:00Z"
     }
@@ -38,7 +38,7 @@
     "fields": {
       "title": "Music for the Jilted Generation",
       "description": "A dynamic and gritty piece inspired by the iconic album cover for The Prodigy's 'Music for the Jilted Generation.' This mural captures the raw energy of the original artwork.",
-      "image": "gallery_images/jilted-generation.jpg",
+      "image": "gallery_images/jilted-generation.png",
       "category": "MURAL",
       "created_at": "2025-10-12T13:00:00Z"
     }
@@ -49,7 +49,7 @@
     "fields": {
       "title": "Marilyn Monroe Portrait",
       "description": "A classic black and white portrait of Marilyn Monroe, painted for a local dance studio. This piece captures her timeless elegance and iconic look.",
-      "image": "gallery_images/marilyn-monroe.jpg",
+      "image": "gallery_images/marilyn-monroe.png",
       "category": "MURAL",
       "created_at": "2025-10-11T14:00:00Z"
     }
@@ -60,7 +60,7 @@
     "fields": {
       "title": "Beauty and the Beast",
       "description": "A whimsical depiction of Lumière and Mrs. Potts from Disney's Beauty and the Beast. This playful mural was created to add a touch of magic to a dance studio.",
-      "image": "gallery_images/beauty-and-the-beast.jpg",
+      "image": "gallery_images/beauty-and-the-beast.png",
       "category": "MURAL",
       "created_at": "2025-10-10T15:00:00Z"
     }
@@ -71,7 +71,7 @@
     "fields": {
       "title": "Castle on the Cliff",
       "description": "A dramatic, monochromatic mural of a castle perched on a cliffside. This atmospheric piece was designed to create a unique and imaginative feature wall within a dance studio.",
-      "image": "gallery_images/castle-on-cliff.jpg",
+      "image": "gallery_images/castle-on-cliff.png",
       "category": "MURAL",
       "created_at": "2025-10-09T16:00:00Z"
     }
@@ -82,7 +82,7 @@
     "fields": {
       "title": "Stairway to Heaven",
       "description": "An ethereal landscape mural painted for a small business in Tasmania. The piece, titled 'Stairway to Heaven,' creates a serene and dreamlike pathway on a large exterior wall.",
-      "image": "gallery_images/stairway-to-heaven.jpg",
+      "image": "gallery_images/stairway-to-heaven.png",
       "category": "MURAL",
       "created_at": "2025-10-08T17:00:00Z"
     }
@@ -93,7 +93,7 @@
     "fields": {
       "title": "Mind of a Dancer",
       "description": "A vibrant and conceptual mural illustrating the different styles and disciplines of dance exploding from a creative mind. Painted for a studio to inspire energy and passion.",
-      "image": "gallery_images/mind-of-a-dancer.jpg",
+      "image": "gallery_images/mind-of-a-dancer.png",
       "category": "MURAL",
       "created_at": "2025-10-07T18:00:00Z"
     }
